@@ -1,4 +1,4 @@
-# cybersecurity-projects
+# Cybersecurity Projects
 This is where all of my Cybersecurity projects will be. Each different type will be in it's own section. 
 
 The goal here is one type every weekend as I need to balance this with my computer science and certification studies. 
